@@ -1,0 +1,5 @@
+###
+https://jsonplaceholder.typicode.com/posts/1
+
+### 
+GET http://127.0.0.1/api/Api/clientes/
